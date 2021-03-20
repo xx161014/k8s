@@ -1,0 +1,3 @@
+##kube-apiserver
+#需要构建镜像的名称和版本
+FROM k8s.gcr.io/kube-apiserver:v1.19.8
